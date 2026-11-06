@@ -1,0 +1,101 @@
+id,name,category_id,price,stock
+1,camera t-shirt tent,6,13.75,64
+2,smartphone backpack snacks,10,127.56,909
+3,laptop book,7,206.05,113
+4,jacket shoes,9,130.58,949
+5,shoes book jacket,7,410.94,533
+6,backpack doll,9,55.95,222
+7,tent vitamins,5,67.87,509
+8,shoes snacks laptop,7,366.69,720
+9,t-shirt,3,213.87,424
+10,drone blender snacks,7,328.57,150
+11,watch jacket,1,460.15,29
+12,book smartphone,5,26.20,888
+13,table,3,95.21,192
+14,t-shirt blender,2,278.75,553
+15,watch,7,319.77,161
+16,shoes backpack,3,358.71,701
+17,chair watch,4,460.98,309
+18,camera watch,4,5.02,572
+19,backpack,5,264.61,426
+20,headphones chair,2,373.49,498
+21,tent laptop camera,7,5.01,51
+22,blender vitamins table,9,12.13,747
+23,book backpack,3,135.49,504
+24,smartphone,1,130.80,980
+25,laptop doll,3,24.83,59
+26,doll book drone,10,23.70,238
+27,shoes blender laptop,8,315.41,759
+28,vitamins watch blender,5,485.82,809
+29,shoes smartphone blender,2,38.00,989
+30,skincare watch drone,7,158.99,523
+31,chair,10,81.45,785
+32,watch laptop skincare,2,93.34,30
+33,shoes table,2,272.76,94
+34,vitamins necklace headphones,4,152.56,934
+35,snacks camera laptop,5,140.10,855
+36,t-shirt,9,22.03,811
+37,doll laptop,8,43.95,680
+38,shoes,9,15.55,913
+39,necklace backpack,4,137.67,275
+40,laptop,8,292.62,678
+41,jacket blender,5,11.21,767
+42,table drone,3,196.36,624
+43,vitamins book,1,8.95,455
+44,jacket drone,2,386.00,705
+45,table headphones smartphone,6,389.98,859
+46,table laptop tent,10,198.18,791
+47,necklace tent doll,8,48.49,908
+48,jacket t-shirt skincare,4,57.63,729
+49,laptop book t-shirt,8,234.20,212
+50,shoes book,5,14.63,65
+51,necklace backpack,2,285.18,626
+52,vitamins shoes,9,73.05,46
+53,camera,6,170.29,965
+54,tent backpack,6,292.63,430
+55,t-shirt skincare chair,4,37.51,381
+56,table blender,7,30.98,262
+57,tent blender smartphone,2,163.52,236
+58,necklace,5,44.96,373
+59,drone jacket watch,4,173.39,838
+60,book smartphone backpack,7,171.12,1
+61,headphones laptop,7,21.24,534
+62,smartphone table laptop,2,483.40,223
+63,tent jacket,9,223.33,754
+64,book blender backpack,5,5.07,638
+65,camera jacket shoes,7,313.01,885
+66,watch t-shirt,9,19.39,90
+67,drone watch,9,63.61,110
+68,shoes,7,177.31,329
+69,watch headphones necklace,6,191.64,743
+70,vitamins headphones t-shirt,7,310.37,777
+71,chair skincare,10,66.00,684
+72,chair watch skincare,2,14.01,358
+73,shoes camera laptop,9,5.29,288
+74,blender drone,1,5.34,961
+75,skincare,8,238.89,413
+76,table,5,272.24,881
+77,doll book vitamins,6,184.28,261
+78,watch headphones doll,5,487.05,254
+79,drone t-shirt doll,5,120.85,177
+80,laptop,4,5.07,981
+81,shoes,7,22.41,583
+82,backpack snacks,8,405.67,925
+83,t-shirt necklace backpack,3,198.27,491
+84,necklace,3,244.92,556
+85,shoes book,7,50.38,948
+86,watch,5,317.95,251
+87,backpack smartphone laptop,7,5.02,749
+88,drone watch,8,17.25,338
+89,vitamins shoes watch,8,270.44,24
+90,vitamins,3,476.62,831
+91,laptop,3,342.42,936
+92,necklace table shoes,2,199.21,385
+93,snacks,4,415.24,262
+94,chair camera,10,14.53,151
+95,necklace t-shirt chair,8,42.64,898
+96,chair,6,336.93,163
+97,chair smartphone camera,3,287.35,441
+98,backpack,9,20.45,189
+99,laptop doll tent,8,394.44,330
+100,skincare jacket t-shirt,6,63.48,102
